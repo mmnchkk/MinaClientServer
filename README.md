@@ -1,8 +1,8 @@
-Frontend: React + Vite.
-Backend: Next.js
-База данных: PostgreSQL
+FRONT: React + Vite.
+BACK: Next.js
+DB: PostgreSQL
 
-
-Чтобы запустить:
-docker compose up --build
-и запуск на порте 5174
+ЗАПУСК
+1. ОТКРЫТЬ ПРОЕКТ
+2. ВВЕСТИ docker compose up --build
+3. ПОРТ http://localhost:5174
